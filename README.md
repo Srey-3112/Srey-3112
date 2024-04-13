@@ -9,11 +9,19 @@
 
 <img align="right" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 - 🤖 Let's take a sneak peek into my story!
 
-I am a software developer who is passionate developing web pages and applications using modern technologies, creating software to elevate people, and building community. Some technologies I enjoy working with includes ReactJS and NodeJS. I love to learn new things every day and currently diving into field of AI/ML. Also I am a data structure lover and web developing punk.
+I am a software developer who is passionate about developing web pages and applications using modern technologies, creating software to elevate people, and building community. Some technologies I enjoy working with include ReactJS and NodeJS. I love to learn new things every day and am currently diving into the field of AI/ML. Also, I am a data structure lover and web developing punk.
 
-- 👉 My skills spans over Web Development, Machine Learning and AI.
+- 👉 My skills span over Web Development, Machine Learning, and AI.
+
 
 
 
